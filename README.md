@@ -4,8 +4,8 @@ The table below is the order that the courses were taken in.  The listing above 
 
 **Directory**|**Course Description**| Status
 |:-----:|:-----| :-----: |
-Data Acquisition | A course that aims to build proficiency in SQL and the first stages of the data analytics lifecycle.| In progress
-Data Cleaning |  An introduction  to data preparation skills.  Addressed exploring tranforming and imputing data.| Upcoming
+Data Acquisition | A course that aims to build proficiency in SQL and the first stages of the data analytics lifecycle.| Completed
+Data Cleaning |  An introduction  to data preparation skills.  Addressed exploring tranforming and imputing data.|Completed
 Exploratory Data Analysis | Covered statistical principles of the data analytics.  Learned how to compute and interpret central tendency, correltations, and variation. Learned about hypothesis testing, and parametric tests. | Upcoming
 Predictive Modeling| Course that builds on data preparation, cleaning, and analysis. Logistic regression and multiple regressions were usedto model phenomena in the dataset.  Course covers normality, homoscedastically, and significance.| Upcoming
 Data Mining I | Course expanded the concepts of predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the data analytics lifecycle. Implemented supervised models.  Provided the framework for assessing models' sensitivity and specificity | Upcoming
