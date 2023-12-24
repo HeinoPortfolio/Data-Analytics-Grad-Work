@@ -28,3 +28,6 @@ The concepts and technologies used to create and complete the assessment are the
 |Research_question.sql|The query for the research question| This is the query that was used to answer the research question.|
 |create_survey_table.sql|The SQL that was used to create the survey table|  There was a requirement to use and addon table to help with answering the question.  This query used multiple joins to gather all the required information to answer the research question.|
 | load_survey_data.sql | SQL to load the addon CSV file data in to the table. |  SQL code taht loaded the code directly into the table for use. |
+|mservices.csv & msurvey.csv |mInput CSV files|  Input files for the assessment|
+|results.csv|The file that contains the average score of the surveys| None|
+|:-----:|The PDF that has the discussion of the assessment and other information that was required of the assessment| None|
