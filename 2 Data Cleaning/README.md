@@ -17,7 +17,7 @@ This is the repository for the Data Cleaning course. This page will contain the 
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Use of Pyhton to create a cleaned dataset..
+- Use of Python to create a cleaned dataset..
 - The data set will be assessed for quality in regards to the "cleaned" dataset's ability to be used to answer the research question that was stated earlier.
 - Perform Principal Component Analysis (PCA).
 - Using Postgres as the database management system.
