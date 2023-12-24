@@ -33,7 +33,7 @@ The concepts and technologies used to create and complete the assessment are the
 | math |  For floor function| None|
 | sklearn.decomposition |  For creating the PCA | Found in section E|
 
-# Files and a Brief Decription of Their Purpose
+# Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
