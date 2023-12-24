@@ -25,3 +25,6 @@ The concepts and technologies used to create and complete the assessment are the
 |:-----:|:-----:|:-----|
 |Copy_results.sql| To copy the results of the question to a CSV file|The results of the question query were saved to a CSV file as per the requirements of the assessment.|
 |Heino D205 Presentation.pptx| The PowerPoint slides that were used to discuss the question and the creation of the addon table| This PowerPoint presentation went over the creation of the table as well as the query to answer the question that was the purpse of the assessment.|
+|Research_question.sql|The query for the research question| This is the query that was used to answer the research question.|
+|create_survey_table.sql|The SQL that was used to create the survey table|  There was a requirement to use and addon table to help with answering the question.  This query used multiple joins to gather all the required information to answer the research question.|
+| load_survey_data.sql | SQL to load the addon CSV file data in to the table. |  SQL code taht loaded the code directly into the table for use. |
