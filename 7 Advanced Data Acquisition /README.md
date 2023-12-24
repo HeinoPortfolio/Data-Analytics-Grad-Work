@@ -2,7 +2,7 @@ This file will be completed after the degree is awarded.
 
 # Course Overview
 
-This is the repository for the Predictive Modeling course. This page will contain the coursework files that are completed during the course.  You will find a sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
+This is the repository for the Advanced Data Acquisition course. This page will contain the coursework files that are completed during the course.  You will find a sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
 - 
