@@ -30,7 +30,7 @@ The concepts and technologies used to create and complete the assessment are the
 |scipy | For chi2 | None |
 
 
-# Files and a Brief Decription of Their Purpose
+# Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
