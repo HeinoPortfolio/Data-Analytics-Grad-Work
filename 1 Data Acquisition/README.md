@@ -19,7 +19,7 @@ The concepts and technologies used to create and complete the assessment are the
 - The ability to load a CSV file into a table using the appropriate commands.
 - Using Postgres as the database management system.
 
-# Files and a Brief Decription of Their Purpose
+# Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
