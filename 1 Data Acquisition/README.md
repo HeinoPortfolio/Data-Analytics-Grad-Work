@@ -11,3 +11,10 @@ This is the repository for the Data Acquisition course. This page will contain t
 - To develop a research question that can be answered with the given datasets.  Two datasets will be used in the assessment.  One is given and the other is an add-on dataset.  This question is stated in the PDF that is found in this repository.
 - Creation of an entity relationship diagram (ERD).  This diagram can be found in the written document.
 - Create the appropriate code for creating a table for the addon dataset as well as the appropriate code to create the addon table in the database.
+
+# Technologies and Concepts Used
+The concepts and technologies used to create and complete the assessment are the following:
+- Use of SQL to create the appropriate queries.
+- The ability to navigate PGAdmin 4 to create queries and view the tables within the database.
+- The ability to load a CSV file into a table using the appropriate commands.
+- Using Postgres as the database management system.
