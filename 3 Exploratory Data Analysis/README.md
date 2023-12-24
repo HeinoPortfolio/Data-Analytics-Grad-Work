@@ -34,8 +34,7 @@ The concepts and technologies used to create and complete the assessment are the
 
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
-| | | None | 
-| Heino D206 Task 1 Final Version.pdf | The PDF that has the written part of the assessment | All information about the  assessment can be found in this document. |
+| Heino D207 EDA Assessment.pdf | The PDF that has the written part of the assessment | All information about the  assessment can be found in this document. |
 |Workup Scripts| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 |Heino D207Assessment.ipynb| The assessment Jupyter Notebook|The assessment notebook that contains the code that was usedin the assessment.|
 |medical_clean.csv| The cleaned dataset | The daaset that was given and needed to be cleaned for analysis. |
