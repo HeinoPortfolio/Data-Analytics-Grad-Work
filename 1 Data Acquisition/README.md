@@ -1,6 +1,6 @@
 # Course Overview
 
-This is the repository for the Data Acquisition course. This page will contain the coursework files that are completed during the course.  You will find a sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
+This is the repository for the Data Acquisition course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
 - The ability to analyze data for its dimensionality, the quality of the data, and the limitations of the data.
