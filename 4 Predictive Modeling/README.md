@@ -31,11 +31,11 @@ The concepts and technologies used to create and complete the assessment are the
 |numpy |See the Jupyter Notebook for the visualization |None|
 | pandas | For creating and manipulating the dataframe |None|
 |seaborn |  For creating plots of the outliers and other graphs. |None|
-|statsmodels.api  |  | None|
+|statsmodels.api  | For statsmodel functions | None|
 |scipy | statistics | None|
 |sklearn | For scaling | None|
 |sklearn.model_selection | For the creation of the training and testing datasets | None|
-|statsmodels.stats.outliers_influence |  | None|
+|statsmodels.stats.outliers_influence | variance inflation factor | None|
 
 # Files and a Brief Description of Their Purpose
 
@@ -44,3 +44,5 @@ The concepts and technologies used to create and complete the assessment are the
 |Workup Scripts| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 |Heino D208 Predictive Modeling Task 1.ipynb | Multiple linear regression task | None |
 |Heino D208 Predictive Modeling Task 1.ipynb| Logistic Regression task | None  |
+| Heino D208 Task 1 Final.pdf | Multiple linear regression Word document | None |
+| Heino D208 Task 2 Final.pdf| Logistic regression Word document | None |
