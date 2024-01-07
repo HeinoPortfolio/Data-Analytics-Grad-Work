@@ -1,5 +1,12 @@
 # -*- coding: utf-8 -*-
 """
+Created on Sun Jan  7 06:36:13 2024
+
+@author: ntcrw
+"""
+
+# -*- coding: utf-8 -*-
+"""
 Created on Thu Jan  4 23:49:52 2024
 
 @author: Matthew Heino
@@ -23,7 +30,7 @@ pd.set_option('display.max_columns', None)
 # Description of these columns can be found in the written document that 
 # accompanies this file.
 
-feature_cols = {'Lat','Lng','Children', 'Age','Income', 'VitD_levels', 'Doc_visits'
+feature_cols = {'Lat','Lng','Population','Children', 'Age','Income', 'VitD_levels', 'Doc_visits'
                 ,'Full_meals_eaten', 'vitD_supp', 'Initial_days'
                 , 'TotalCharge', 'Additional_charges'} 
 
@@ -111,7 +118,7 @@ sns.heatmap(pca_matrix , cmap='mako',annot=True, fmt='.3g')
 plt.title('Principal Component Matrix')
 plt.show() 
 
-
+"""
 
 #*****************************************************************************
 # D2. Create the Elbow plot.
@@ -119,7 +126,16 @@ plt.show()
 # components.  This can be found in the explained_varaince_ratio found in 
 # the PCA object.
 
-"""
+
+
+
+
+
+
+
+
+
+
 total_var = sum(pca.explained_variance_ratio_*100).round()
 
 print("Total variance explained by all {} of the principal components is: {}%"
@@ -182,6 +198,26 @@ variance_df["Sum of the Cumulative Variances by PC"] = pc_sum
 variance_df = variance_df.iloc[ : ,[0,2,1]]
 
 print(variance_df)
+
+
+
+# Create the required Scree plot.
+fig, ax = plt.subplots(figsize=(15, 15))
+plt.plot(variance_df["Eigenvalues by PC"].values)
+plt.title("The Scree Plot of all the PCs")
+plt.xlabel("Number of Principal Components")
+plt.ylabel("Cumulative Explained Experience (%)")
+ax.set_xticks(range(0, medical_scaled_df.shape[1]))
+ax.set_xticklabels(col_list)
+
+# Add 1 line ot the graph
+plt.axhline(y =1, color='r', linestyle='--', label='Eigenvalue equal to 1')
+
+
+# Add a legend to the plot.
+plt.legend(loc='lower right')
+
+plt.show()
 
 
 # Create the required Scree plot.
@@ -260,7 +296,6 @@ for rect, label in zip(rectangles, labels):
         )
 
 
-
 # Create lables for the step plot.
 for rect2, label2 in zip(rectangles, labels2):
   
@@ -274,20 +309,6 @@ for rect2, label2 in zip(rectangles, labels2):
 plt.legend(loc='best')
 
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
