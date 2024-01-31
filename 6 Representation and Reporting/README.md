@@ -37,6 +37,6 @@ The concepts and technologies used to create and complete the assessment are the
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
 |  |  |  |
-|Workup Scripts| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
+|Misc| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 | | | |
 || |  |
