@@ -1,0 +1,15 @@
+Citations:
+
+
+
+Brownlee, J. (2020, August 25). <I> Use early stopping to halt the training of neural networks at the right time <I>. MachineLearningMastery.com. Retrieved February 6, 2024, from https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
+
+
+<I>tf.keras.preprocessing.text.Tokenizer<I>. (n.d.). TensorFlow. Retrieved February 4, 2024, from https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer
+(tf.keras.preprocessing.text.Tokenizer, n.d.)
+
+
+Vu, D. (2023, February 23).<I> Generating WordClouds in Python Tutorial <I>. DataCamp. Retrieved February 7, 2024, from https://www.datacamp.com/tutorial/wordcloud-python
+
+<I>What does Keras Tokenizer method exactly do?<I> (n.d.). Stack Overflow. Retrieved February 6, 2024, from https://stackoverflow.com/questions/51956000/what-does-keras-tokenizer-method-exactly-do
+(What Does Keras Tokenizer Method Exactly Do?, n.d.)
