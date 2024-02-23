@@ -13,4 +13,4 @@ The table below shows the order the courses were taken.  The listing above does 
 7 | [Advanced Data Acquisition](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/7%20Advanced%20Data%20Acquisition)| Advanced SQL operations, data aggregation, and advanced data acquistion that will be used to support an organization. |  Completed
 8 | [Data Mining II](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/8%20Data%20Mining%20II)| Use of tools that can be used to create unsupervised models. | Completed
 9 | [Advanced Data Analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/9%20Advanced%20Data%20Analytics%20) | Topics learned included machine learning, neural networks, randomness, and unconventional data sources. | Completed
-10 | [Data Analytics Graduate Capstone](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/10%20Data%20Analytics%20Graduate%20Capstone) | Graduate project | In Progress
+10 | [Data Analytics Graduate Capstone](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/10%20Data%20Analytics%20Graduate%20Capstone) | Graduate project | Completed
