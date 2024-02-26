@@ -17,7 +17,7 @@ The concepts and technologies used to create and complete the assessment are the
 # Python Libraries Used
 |**Python Library**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
-|geopandas|to geolocate the datapoints on a map| None | None |
+|geopandas|to geolocate the data points on a map| None | None |
 |Kmeans|  library that provided the clustering method/class  |None|
 
 
@@ -26,4 +26,5 @@ The concepts and technologies used to create and complete the assessment are the
 |**File Name**|**Purpose**|**Additional Comments**|
 |:-----:|:-----:|:-----|
 |Misc| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| Need to be uploaded |
-| | | |
+|Heino D214 Task 2.pdf | Task 2 write-up |None |
+|Heino D214 Task 3.pdf|Task 3 write-up |None|
