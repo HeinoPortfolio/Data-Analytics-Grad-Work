@@ -2,6 +2,8 @@
 
 The table below shows the order the courses were taken.  The listing above does not reflect the order that they were taken.  Some directories may be empty.  The reason for the directories being empty is that they have not been completed.  These courses are in the process of being completed.  The appropriate content will be uploaded at that time.
 
+For additional work in data analytics [click here](https://github.com/HeinoPortfolio/Graduate-Work)
+
 **Course Number**|**Directory**|**Course Description**| Status
 |:-----:|:-----:|:-----| :-----: |
 1 | [Data Acquisition](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/1%20Data%20Acquisition) | A course that aims to build proficiency in SQL and the first stages of the data analytics lifecycle.| Completed
