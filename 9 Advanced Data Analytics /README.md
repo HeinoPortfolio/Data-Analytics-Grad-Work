@@ -15,6 +15,11 @@ This is the repository for the Advanced Data Analytics course. This page will co
 The concepts and technologies used to create and complete the assessment are the following:
 - Sequential neural network
 - natural language processing
+- Activation functions
+- loss function
+- optimizer
+- stopping criteria
+- evaluation metric
 
 
 # Python Libraries Used
