@@ -3,8 +3,9 @@
 The table below shows the order the courses were taken.  The listing above does not reflect the order that they were taken.  This degree was completed.  You will be able to find course content in each of the directories.
 
 # Additional Graduate Level Work
-* For master's work in data analytics [click here](https://github.com/HeinoPortfolio/Graduate-Work).
-* For master's work in computer science [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci). **Note:** This link will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
+* For master's work in **data science** [click here](https://github.com/HeinoPortfolio/Graduate-Work).
+* For master's work in **computer science** [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci).
+  * **Note:** The link above will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
 
 **Course Number**|**Directory**|**Course Description**| Status
 |:-----:|:-----:|:-----| :-----: |
