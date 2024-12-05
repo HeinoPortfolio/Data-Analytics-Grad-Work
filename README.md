@@ -4,7 +4,7 @@ The table below shows the order the courses were taken.  The listing above does 
 
 # Additional Graduate Level Work
 * For master's work in data analytics [click here](https://github.com/HeinoPortfolio/Graduate-Work).
-* For master's work in computer science [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci). **Note:** This link will be active for job interviews and by request.  This is to meet school requirements on academic work.
+* For master's work in computer science [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci). **Note:** This link will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
 
 **Course Number**|**Directory**|**Course Description**| Status
 |:-----:|:-----:|:-----| :-----: |
