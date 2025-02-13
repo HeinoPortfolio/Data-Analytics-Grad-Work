@@ -1,11 +1,8 @@
 # Data-Analytics-Grad-Work
 
-The table below shows the order the courses were taken.  The listing above does not reflect the order that they were taken.  This degree was completed.  You will be able to find course content in each of the directories.
+The table below shows the order the courses were taken.  The listing above does not reflect the order that they were taken.  This degree was completed.  You will be able to find course content in each of the directories. Links to additional graduate work can be found below the coursework section.
 
-# Additional Graduate Level Work
-* For master's work in **data science** [click here](https://github.com/HeinoPortfolio/Graduate-Work).
-* For master's work in **computer science** [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci).
-  * **Note:** The link above will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
+# Graduate Level Coursework
 
 **Course Number**|**Directory**|**Course Description**| Status
 |:-----:|:-----:|:-----| :-----: |
@@ -19,3 +16,8 @@ The table below shows the order the courses were taken.  The listing above does 
 8 | [Data Mining II](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/8%20Data%20Mining%20II)| Use of tools that can be used to create unsupervised models. | $`\textcolor{blue}{\text{Completed}}`$ 
 9 | [Advanced Data Analytics](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/9%20Advanced%20Data%20Analytics%20) | Topics learned included machine learning, neural networks, randomness, and unconventional data sources. | $`\textcolor{blue}{\text{Completed}}`$ 
 10 | [Data Analytics Graduate Capstone](https://github.com/HeinoPortfolio/Data-Analytics-Grad-Work/tree/main/10%20Data%20Analytics%20Graduate%20Capstone) | Graduate project | $`\textcolor{blue}{\text{Completed}}`$ 
+
+# Additional Graduate Level Work
+* For master's work in **data science** [click here](https://github.com/HeinoPortfolio/Graduate-Work).
+* For master's work in **computer science** [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci).
+  * **Note:** The link above will be active for job interviews and by request.  This is to meet school requirements on academic work privacy.
