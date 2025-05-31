@@ -22,7 +22,7 @@ The concepts and technologies used to create and complete the assessment are the
 
 # Python Libraries Used
 |**Python Library**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 |missingno|Used to visualize the missing data| See the Jupyter Notebook for the visualization | None |
 |numpy | For sorting and other a np array function |None|
 |pandas |  For creating and manipulating the dataframe |None|
@@ -33,7 +33,7 @@ The concepts and technologies used to create and complete the assessment are the
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 | Heino D207 EDA Assessment.pdf | The PDF that has the written part of the assessment | All information about the  assessment can be found in this document. |
 |Workup Scripts| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 |Heino D207Assessment.ipynb| The assessment Jupyter Notebook|The assessment notebook that contains the code that was usedin the assessment.|
