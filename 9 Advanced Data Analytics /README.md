@@ -31,7 +31,7 @@ The concepts and technologies used to create and complete the assessment are the
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 | Documents | Documents that were created for the assessment |  See this directory for more information|
 |Misc| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 |Notebook | Holds the Jupyter Notepbboks for the assessment| None|
