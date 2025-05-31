@@ -29,7 +29,7 @@ The concepts and technologies used to create and complete the assessment are the
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 | Heino D212 Task 1 Hierarchical Clustering.ipynb | Hierarchical clustering notebook | None |
 |Misc| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 | Heino D212 Task 1.pdf|  Task 1 Word write-up| None |
