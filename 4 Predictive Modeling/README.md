@@ -26,7 +26,7 @@ The concepts and technologies used to create and complete the assessment are the
 
 # Python Libraries Used
 |**Python Library**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 |missingno| Used to visualize the missing data | None |
 |numpy |See the Jupyter Notebook for the visualization |None|
 | pandas | For creating and manipulating the dataframe |None|
@@ -40,7 +40,7 @@ The concepts and technologies used to create and complete the assessment are the
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 |Workup Scripts| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 |Heino D208 Predictive Modeling Task 1.ipynb | Multiple linear regression task | None |
 |Heino D208 Predictive Modeling Task 1.ipynb| Logistic Regression task | None  |
