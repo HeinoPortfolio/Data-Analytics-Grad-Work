@@ -17,17 +17,10 @@ The concepts and technologies used to create and complete the assessment are the
 - SQL (PostgreSQL)
 
 
-# Python Libraries Used
-|**Python Library**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
-|None|None| None| None |
-
-
-
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 | Misc | Holds miscelaneous files used in the creation of the assessment | None |
 |SQL Queries| SQL query scripts| None |
 |Heino D211 Task 1.pdf |  Write-up Word document | None |
