@@ -18,17 +18,11 @@ The concepts and technologies used to create and complete the assessment are the
 - Tableau
 
 
-# Python Libraries Used
-|**Python Library**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
-|None|None|None| None |
-
-
 
 # Files and a Brief Description of Their Purpose
 
 |**File Name**|**Purpose**|**Additional Comments**|
-|:-----:|:-----:|:-----|
+|:-----|:-----|:-----|
 | Heino D210 Task 1.pdf | Wrie-up Word document  | None |
 |Misc| Scripts that were used to test and learn concepts that were later used to create the Jupyter Notebook.| None |
 | Heino D210 Workbook Final.twbx| Tableau workbook| Will need the appropriate software to view.|
