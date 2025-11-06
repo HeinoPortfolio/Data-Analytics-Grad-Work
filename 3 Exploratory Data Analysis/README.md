@@ -3,21 +3,21 @@
 This is the repository for the Exploratory Data Analysis course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- The ability to interpret data.
-- To be able to conduct parametric testing.
-- The ability to manipulate data for analysis.
+- $`\textcolor{blue}{\text{The ability to interpret data.}}`$
+- $`\textcolor{blue}{\text{To be able to conduct parametric testing.}}`$
+- $`\textcolor{blue}{\text{The ability to manipulate data for analysis.}}`$ 
 
 # Assessment Objectives
-- To develop a research question that can be answered with the given dataset. Identify a real-world organzational issue.
-- Describe the data using a t-test.
-- Identify the distribution of two continuous variables and two categorical variables using univariate statistics. 
-- Identify the distribution of two continuous variables and two categorical variables using bivariate statistics.
-- Creation and development of a hypothesis test.
+- $`\textcolor{blue}{\text{To develop a research question that can be answered with the given dataset. Identify a real-world organizational issue.}}`$
+- $`\textcolor{blue}{\text{Describe the data using a T-test.}}`$
+- $`\textcolor{blue}{\text{Identify the distribution of two continuous variables and two categorical variables using univariate statistics. }}`$
+- $`\textcolor{blue}{\text{Identify the distribution of two continuous variables and two categorical variables using bivariate statistics.}}`$
+- $`\textcolor{blue}{\text{Creation and development of a hypothesis test.}}`$
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Use of Python to explore the dataset.
-- Creation of univariate and bivariate statistics.
+- $`\textcolor{blue}{\text{Use of Python to explore the dataset.}}`$
+- $`\textcolor{blue}{\text{Creation of univariate and bivariate statistics.}}`$
 
 
 # Python Libraries Used
