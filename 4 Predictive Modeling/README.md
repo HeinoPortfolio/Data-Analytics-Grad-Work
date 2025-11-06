@@ -3,25 +3,25 @@
 This is the repository for the Predictive Modeling course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- To be able to create logistic and linear regressions.
-- Create multiple regressions
-- Understand the implications of the regressions.
+- $`\textcolor{blue}{\text{To be able to create logistic and linear regressions.}}`$
+- $`\textcolor{blue}{\text{Create multiple regressions}}`$
+- $`\textcolor{blue}{\text{Understand the implications of the regressions.}}`$
 
 # Assessment Objectives
-- Create a suitable research question based on the dataset.
-- Prepare data (data prpeparation) to allow for analysis and the creation of the appropriate regression.
-- Transform or encode data to make usre they data is in the right form for use.
-- Perform the a model comparison and analysis for the regression models.
-- Summarize the findings and the data within the model.
-- Understand multicollinearity.
+- $`\textcolor{blue}{\text{Create a suitable research question based on the dataset.}}`$
+- $`\textcolor{blue}{\text{Prepare data (data prpeparation) to allow for analysis and the creation of the appropriate regression.}}`$
+- $`\textcolor{blue}{\text{Transform or encode data to make usre they data is in the right form for use.}}`$
+- $`\textcolor{blue}{\text{Perform the a model comparison and analysis for the regression models.}}`$
+- $`\textcolor{blue}{\text{Summarize the findings and the data within the model.}}`$
+- $`\textcolor{blue}{\text{Understand multicollinearity.}}`$
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Multiple regressions
-- Creation of training and testing set
-- Use of the concept of the variance inflation factor (VIF)
-- Model reduction
-- Model's residual standard error (RSE) 
+- $`\textcolor{blue}{\text{Multiple regressions}}`$
+- $`\textcolor{blue}{\text{Creation of training and testing set}}`$
+- $`\textcolor{blue}{\text{Use of the concept of the variance inflation factor (VIF)}}`$
+- $`\textcolor{blue}{\text{Model reduction}}`$
+- $`\textcolor{blue}{\text{Model's residual standard error (RSE) }}`$
 
 
 # Python Libraries Used
