@@ -5,22 +5,22 @@
 This is the repository for the Data Cleaning course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- The ability to predict obstacles in data analysis.
-- To be able to prepare data for analysis.
-- The ability to manipulate data for analysis.
+- $`\textcolor{blue}{\text{The ability to predict obstacles in data analysis.}}`$
+- $`\textcolor{blue}{\text{To be able to prepare data for analysis.}}`$
+- $`\textcolor{blue}{\text{The ability to manipulate data for analysis.}}`$
 
 # Assessment Objectives
-- To develop a research question that can be answered with the given dataset.  One dataset will be used in the assessment.  This question is stated in the PDF that is found in this repository.
-- There will be a creation of a plan for cleaning data. This plan will be mechanically sound and will result in a dataset that is suitable for analysis.
-- Create the appropriate code for creating a table for the addon dataset as well as the appropriate code to create the addon table in the database.
-- The data set will be assessed for quality in regards to the "cleaned" dataset's ability to be used to answer the research question that was stated earlier.
+- $`\textcolor{blue}{\text{To develop a research question that can be answered with the given dataset.  One dataset will be used in the assessment.  This question is stated in the PDF that is found in this repository.}}`$
+- $`\textcolor{blue}{\text{There will be a creation of a plan for cleaning data. This plan will be mechanically sound and will result in a dataset that is suitable for analysis.}}`$ 
+- $`\textcolor{blue}{\text{Create the appropriate code for creating a table for the addon dataset as well as the appropriate code to create the addon table in the database.}}`$
+- $`\textcolor{blue}{\text{The data set will be assessed for quality in regards to the "cleaned" dataset's ability to be used to answer the research question that was stated earlier.}}`$
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Use of Python to create a cleaned dataset..
-- The data set will be assessed for quality in regards to the "cleaned" dataset's ability to be used to answer the research question that was stated earlier.
-- Perform Principal Component Analysis (PCA).
-- Using Postgres as the database management system.
+- $`\textcolor{blue}{\text{Use of Python to create a cleaned dataset.}}`$
+- $`\textcolor{blue}{\text{The data set will be assessed for quality in regards to the "cleaned" dataset's ability to be used to answer the research question that was stated earlier.}}`$
+- $`\textcolor{blue}{\text{Perform Principal Component Analysis (PCA).}}`$
+- $`\textcolor{blue}{\text{Using Postgres as the database management system.}}`$
 
 # Python Libraries Used
 |**Python Library**|**Purpose**|**Additional Comments**|
