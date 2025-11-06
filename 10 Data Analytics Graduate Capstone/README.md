@@ -3,15 +3,15 @@
 This is the repository for the Data Analytics Graduate Capstone course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- Ability to synthesize the content of the degree competencies.
+- $`\textcolor{blue}{\text{Ability to synthesize the content of the degree competencies.}}`$
 
 # Assessment Objectives
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Geopandas
-- Data clustering
-- KMeans clustering algorithm
+- $`\textcolor{blue}{\text{Geopandas}}`$
+- $`\textcolor{blue}{\text{Data clustering}}`$
+- $`\textcolor{blue}{\text{KMeans clustering algorithm}}`$
 
 
 # Python Libraries Used
