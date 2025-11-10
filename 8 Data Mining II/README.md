@@ -3,22 +3,23 @@
 This is the repository for the Data Mining II course. This page will contain the coursework files that are completed during the course.  You will find a sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- Dimension reduction methodology
-- Clustering techniques
-- Pattern prediction
+- $`\textcolor{blue}{\text{Dimension reduction methodology}}`$
+- $`\textcolor{blue}{\text{Clustering techniques}}`$
+- $`\textcolor{blue}{\text{Pattern prediction}}`$
+
 
 # Assessment Objectives
-- Utilize  principal component analysis (PCA).
-- Utlize the Kaiser criterion and or elbow rule.
-- Identify variance and total variance.
+- $`\textcolor{blue}{\text{Utilize  principal component analysis (PCA).}}`$
+- $`\textcolor{blue}{\text{Utlize the Kaiser criterion and or elbow rule.}}`$
+- $`\textcolor{blue}{\text{Identify variance and total variance.}}`$
+
 
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Hierchical clustering
-- Rules and lift analysis
-- Market basket analysis
-
+- $`\textcolor{blue}{\text{Hierchical clustering}}`$
+- $`\textcolor{blue}{\text{Rules and lift analysis}}`$
+- $`\textcolor{blue}{\text{Market basket analysis}}`$
 
 # Python Libraries Used
 |**Python Library**|**Purpose**|**Additional Comments**|
