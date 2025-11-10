@@ -4,20 +4,19 @@ There is a Tableau workbook.  You will need to download it and the appropriate s
 This is the repository for the Representation and Reporting course. This page will contain the coursework files that are completed during the course.  You will find a sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- Story telling with data. 
-- Data visualization and representations
-- Creation of Tableau Dashboards.
+- $`\textcolor{blue}{\text{Story telling with data. }}`$
+- $`\textcolor{blue}{\text{Data visualization and representations}}`$
+- $`\textcolor{blue}{\text{Creation of Tableau Dashboards.}}`$
+
 
 # Assessment Objectives
-- Create a dashboard utilizing two data sets (two separate sources).
-- Create an interactive dashboard.
-- Create a story using the data.
+- $`\textcolor{blue}{\text{Create a dashboard utilizing two data sets (two separate sources).}}`$
+- $`\textcolor{blue}{\text{Create an interactive dashboard.}}`$
+- $`\textcolor{blue}{\text{Create a story using the data.}}`$
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Tableau
-
-
+- $`\textcolor{blue}{\text{Tableau}}`$
 
 # Files and a Brief Description of Their Purpose
 
