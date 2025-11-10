@@ -3,19 +3,20 @@
 This is the repository for the Advanced Data Acquisition course. This page will contain the coursework files that are completed during the course.  You will find sample code that was used to create the assignment and a brief description of the concepts or technology used to pass the assessment. 
 
 # Competencies
-- Advanced SQL operations
-- Advanced data exploration
+- $`\textcolor{blue}{\text{Advanced SQL operations}}`$
+
+- $`\textcolor{blue}{\text{Advanced data exploration}}`$
+
 
 # Assessment Objectives
-- Utilize two data sets. 
-- Generate SQL scripts to facilitate the creations of Tableau dashboards.
-- Creation of Tableau dashbaord and stories.
+- $`\textcolor{blue}{\text{Utilize two data sets. }}`$
+- $`\textcolor{blue}{\text{Generate SQL scripts to facilitate the creations of Tableau dashboards.}}`$
+- $`\textcolor{blue}{\text{?Creation of Tableau dashbaord and stories.}}`$
 
 # Technologies and Concepts Used
 The concepts and technologies used to create and complete the assessment are the following:
-- Tableau
-- SQL (PostgreSQL)
-
+- $`\textcolor{blue}{\text{Tableau}}`$
+- $`\textcolor{blue}{\text{SQL (PostgreSQL)}}`$
 
 # Files and a Brief Description of Their Purpose
 
