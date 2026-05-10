@@ -26,3 +26,8 @@
 # Additional Graduate Level Work
 * For master's work in **data science** [click here](https://github.com/HeinoPortfolio/Graduate-Work).
 * For master's work in **computer science** [click here](https://github.com/HeinoPortfolio/MS_Comp_Sci).
+
+-----------------------------------------
+
+# Complete Resume
+* To view a complete resume [click here](https://github.com/HeinoPortfolio/Resume)
