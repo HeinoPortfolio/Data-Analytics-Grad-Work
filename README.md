@@ -1,4 +1,4 @@
-# Data-Analytics-Grad-Work
+# Data Analytics Grad Work
 
 > The table below shows the order the courses were taken.  The listing above does not reflect the order that they were taken.  This degree was completed.  You will be able to find course content in each of the directories. Links to additional graduate work can be found below the coursework section.
 
